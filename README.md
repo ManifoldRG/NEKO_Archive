@@ -1,4 +1,4 @@
-# NEKO
+# NEKO 🐱
 
 ## Vision
 
