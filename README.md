@@ -8,3 +8,4 @@ Ultimately, collective high performance across many objectives in varied modalit
 
 Practically, building these systems provides us deeper understanding into the utility and mechanics of modern deep learning approaches in building better representational capability and scaling to new problem domains. Put another way, this research direction serves as an excellent foundation to test other, new kinds of general AI approaches to build next generation learning systems. 
 
+This is still a work in progress, but if you use this project, we'd love for you to refer back to Manifold in your code!
