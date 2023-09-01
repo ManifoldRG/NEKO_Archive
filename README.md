@@ -9,3 +9,13 @@ Ultimately, collective high performance across many objectives in varied modalit
 Practically, building these systems provides us deeper understanding into the utility and mechanics of modern deep learning approaches in building better representational capability and scaling to new problem domains. Put another way, this research direction serves as an excellent foundation to test other, new kinds of general AI approaches to build next generation learning systems. 
 
 This is still a work in progress, but if you use this project, we'd love for you to refer back to Manifold in your code!
+
+## Relevant Links
+- Socials
+ - [Twitter](https://twitter.com/ManifoldRG)
+ - [LinkedIn](https://www.linkedin.com/company/manifold-research-group)
+ - [Discord](https://discord.gg/a8uDbxzEbM)
+- Documents
+ - [NEKO Project Roadmap](https://docs.google.com/document/d/e/2PACX-1vQ2JVJvSiYmwjDFnppj0_38NCUEdLG8pAdj0Q2tSy1yy4wwQxJOAAzNFwz2Is4TONhgUVnvJzuu5o85/pub)
+ - [Contributing Guide](https://github.com/ManifoldRG/NEKO/blob/main/CONTRIBUTING.md)
+ - [Core Team Expectations](https://docs.google.com/document/d/12_NKKnfMy6Q09xsyGwF4UBfSvn9vqVk4Pd_OTJVFWYk/edit?usp=sharing)
