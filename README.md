@@ -1,4 +1,5 @@
 # NEKO 🐈
+[![Check out our Discord Here](https://dcbadge.vercel.app/api/server/a8uDbxzEbM)](https://discord.gg/a8uDbxzEbM)
 
 ## Vision
 
@@ -13,5 +14,7 @@ Practically, building these systems provides us deeper understanding into the ut
 ## [NEKO Open Issues and Tasks](https://github.com/orgs/ManifoldRG/projects/12)
 
 ## [Contributing Guide](https://github.com/ManifoldRG/NEKO/blob/main/CONTRIBUTING.md)
+
+## [GATO-Control Implementation](https://github.com/ManifoldRG/gato-control/tree/master/gato)
 
 This is still a work in progress, but if you use this project, we'd love for you to refer back to Manifold in your code! Feel free to check out our 
